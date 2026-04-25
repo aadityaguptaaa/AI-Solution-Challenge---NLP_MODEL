@@ -102,8 +102,8 @@ TaxGuard-TN generates a suite of interactive and static reports located in the `
 
 ## 👨‍💻 Author & Acknowledgements
 
-**Author**: Poreddy Lokesh Reddy  
-**Contact**: [GitHub Profile](https://github.com/lokesh-poreddy)
+**Author**: Aaditya Gupta  
+**Contact**: [GitHub Profile](https://github.com/aadityaguptaaa)
 
 Special thanks to the open-source community for the `Transformers`, `PyG`, and `pyDatalog` libraries that made this hybrid system possible.
 
